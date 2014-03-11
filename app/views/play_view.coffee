@@ -162,6 +162,12 @@ module.exports = class PlayView extends View
         description: "Take cover while shells fly, then strike! - by mcdavid1991"
         disabled: true
       }
+      {
+        name: 'Sword Loop'
+        difficulty: 1
+        id: 'sword-loop'
+        description: "Kill all the ogres and save the peasants and their cattle. - by Prabh Simran"
+      }
     ]
 
     context.campaigns = [
